@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Wordclock)(type Legacy)(uri ${KIPRJMOD}/Wordclock.lib)(options "")(descr ""))
+  (lib (name WordclockPCB-rescue)(type Legacy)(uri ${KIPRJMOD}/WordclockPCB-rescue.lib)(options "")(descr ""))
+)

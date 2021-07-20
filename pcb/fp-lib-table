@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name WordclockPCB)(type KiCad)(uri ${KIPRJMOD}/WordclockPCB.pretty)(options "")(descr ""))
+  (lib (name JS202011SCQN)(type Legacy)(uri /home/mguillos/Téléchargements/JS202011SCQN.mod)(options "")(descr ""))
+)
