@@ -1,5 +1,7 @@
 # Wordclock
 
+![alt text](https://raw.githubusercontent.com/maelgui/wordclock/master/IMG_0349.jpeg)
+
 ## Building the clock
 
 This repository contains every files needed to build the clock
